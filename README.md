@@ -48,8 +48,8 @@ print("Mean Squared Error:", mse)
 print("\nPredictions:\n", Y_pred[:5])
 /*
 Program to implement the multivariate linear regression model for predicting the price of the house and number of occupants in the house with SGD regressor.
-Developed by: 
-RegisterNumber:  
+Developed by: Gokul S
+RegisterNumber:24900980  
 */
 ```
 
